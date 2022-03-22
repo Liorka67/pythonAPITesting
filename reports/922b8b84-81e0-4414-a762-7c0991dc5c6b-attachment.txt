@@ -1,0 +1,2 @@
+1103292
+{"status":"true","data":{"first_name":"Hila","middle_name":"V","last_name":"Shtraus","date_of_birth":"10_11_2021","TechnicalDetails":[{"id":30438,"language":["java","python"],"yearexp":"8","lastused":"this year","st_id":"1103292"}],"Address":[]}}
