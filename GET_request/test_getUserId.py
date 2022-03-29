@@ -12,7 +12,7 @@ json_format_file = json.loads(response.text)
 
 print(json_format_file)
 
-val = jsonpath.jsonpath(json_format_file,'data[1].id')
+val = jsonpath.jsonpath(json_format_file,'data[4].id')
 
 print(val)
 print('assert response.url == url')
